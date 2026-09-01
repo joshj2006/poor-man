@@ -1,4 +1,4 @@
-package prob1;
+package ver1;
 
 /**
  * Represents a baskeball player
@@ -7,7 +7,7 @@ package prob1;
 public class BasketballPlayer {
 
 	/**
-	 * The name of the basketball player.
+	 * The name of the basketball player.4567
 	 */
 	private String name;
 	/**
